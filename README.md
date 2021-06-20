@@ -9,7 +9,6 @@ Project to generate a simple self-signed certificate for a domain. It asks for t
   * [Requirements](##-Requirements)
     * [Linux](###-Linux)
     * [Windows](###-Windows)
-  * [Generation](##-Generation)
   * [Disclaimer](##-Disclaimer)
 
 ## Download
