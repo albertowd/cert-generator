@@ -53,8 +53,6 @@ Output example:
 
 ```
 
-~~~
-
 ************************************************************************
 * Welcome to the certificate generator!                                *
 ************************************************************************
@@ -90,7 +88,7 @@ subject=O = development, OU = albertowd, CN = host.docker.internal
 * Generation completed, its time to copy and use it!                  *
 ************************************************************************
 
-~~~
+```
 
 The output files should pop-up in the explorer window or be listed with a `ls` like command on the `certs` folder.
 
